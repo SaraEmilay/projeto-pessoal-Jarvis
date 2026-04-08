@@ -187,3 +187,11 @@ with col3:
     mem = psutil.virtual_memory()
     mem_percent = mem.percent
     st.markdown(f'<div class="card">🧠 Memória: {mem_percent}%</div>', unsafe_allow_html=True)
+
+
+
+# app.py (no topo)
+import os
+
+if not os.path.exists("models/vosk-model-small-pt-0.3"):
+    import setup
