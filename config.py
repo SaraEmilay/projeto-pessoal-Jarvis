@@ -1,0 +1,2 @@
+NOME_ASSISTENTE = "Jarvis"
+IDIOMA = "pt-BR"

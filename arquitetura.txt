@@ -1,0 +1,7 @@
+🎤 Microfone
+   ↓
+🧠 Interpretador (IA ou regras)
+   ↓
+⚙️ Executor de comandos
+   ↓
+🔊 Resposta por voz
