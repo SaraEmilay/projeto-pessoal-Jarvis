@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Ambiente virtual
+env/
+venv/
+
+# Arquivos temporários
+*.DS_Store
+*.log
+
+# Models grandes
+models/vosk-model-small-pt-0.3/
+
+# Secrets / API keys
+*.key
+*.env
