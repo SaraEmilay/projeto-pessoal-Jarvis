@@ -1,3 +1,7 @@
-pyttsx3
-SpeechRecognition
+streamlit
+sounddevice
 vosk
+numpy
+requests
+psutil
+pyttsx3
